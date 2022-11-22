@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">My Calculator</string>
-    <string name="app">My Input Calculator</string>
+    <string name="app_name">Calculator</string>
+    <string name="app">Cosmos Calculator</string>
     <string name="first">First Input</string>
     <string name="second">Second Input</string>
     <string name="third">Third Input</string>
     <string name="total">Result</string>
-    <string name="txt_compute_result">Result(s)</string>
+    <string name="txt_compute_result">Final Answer</string>
     <string name="txt_close">Close</string>
 </resources>
